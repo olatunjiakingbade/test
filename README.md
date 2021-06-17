@@ -1,4 +1,4 @@
-# Why I am betting on Califonia for my next Job heading to
+# Why I am betting on Califonia for my next Job
 
 ## My Story
 I just finished my Data Analytics Foundation Class at Afara and I wanted to explore the opportunities for Data analysts across the US.  I analyzed Data analyst job roles acrosss the US. There were 8,836 roles as at the time of this analysis and the average salary across the US is $79,609
